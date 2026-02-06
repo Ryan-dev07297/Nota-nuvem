@@ -1,6 +1,3 @@
-# Nota-nuvem
-Tudo que guardo em nuvem
-
 # 📘 Nota.py
 
 Um projeto em **Python** criado para servir como um espaço de estudo, anotações e testes de código.  
@@ -49,4 +46,33 @@ python Nota.py
 
 ## 🧪 O que pode ter dentro do Nota.py
 O arquivo `Nota.py` pode conter, por exemplo:
-- Listas grandes (itens de
+- Listas grandes (itens de supermercado, comida, etc.)
+- Geração de números, senhas ou chaves
+- Testes com `for`, `while`, `if`
+- Códigos de treino
+- Anotações em forma de comentário
+- Experimentos de programação
+
+Tudo isso pode ser alterado e expandido com o tempo.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- Python 🐍
+- Editor de código (ex: Acode)
+- Git
+- GitHub
+
+---
+
+## 📌 Observações
+- Este é um projeto de **aprendizado**
+- Não é um aplicativo final
+- O código pode mudar várias vezes
+- Serve como um “caderno de programação”
+
+---
+
+## 👤 Autor
+Ryan  
+Estudante e aprendiz de programação 💻🚀
